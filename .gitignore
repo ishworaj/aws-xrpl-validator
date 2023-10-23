@@ -1,0 +1,13 @@
+xrpl-cdk-deployment/aws/*.js
+xrpl-cdk-deployment/aws/!jest.config.js
+xrpl-cdk-deployment/aws/*.d.ts
+xrpl-cdk-deployment/aws/node_modules
+
+# CDK asset staging directory
+xrpl-cdk-deployment/aws/.cdk.staging
+xrpl-cdk-deployment/aws/cdk.out
+.DS_Store
+xrpl-cdk-deployment/aws/architecture/.DS_Store
+xrpl-cdk-deployment/container-env/.DS_Store
+xrpl-cdk-deployment/aws/package-lock.json
+xrpl-cdk-deployment/aws/cdk.context.json
