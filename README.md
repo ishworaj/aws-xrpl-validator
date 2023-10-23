@@ -23,7 +23,7 @@ Before deploying to AWS, make sure you have completed the following steps:
 ## Deployment 
 
 1. Clone the repository 
-2. Go to this path: cloud-infra-deployment-automation/aws/bin
+2. Go to this path: xrpl-cdk-deploymentaws/bin
 3. Open xrplnodehost.ts file and modify the value according to your AWS environment: 
 ```typescript 
 let variables = {
@@ -38,7 +38,7 @@ let variables = {
 }
 ```
 
-4. Once you finished adjusting, change the directory back to cloud-infra-deployment-automation/aws and run the follwoing command
+4. Once you finished adjusting, change the directory back to xrpl-cdk-deploymentaws and run the follwoing command
 ```bash 
     $ npm install -g aws-cdk
     $ cd xrplnode-host/cloud-infra-deployment-automation
