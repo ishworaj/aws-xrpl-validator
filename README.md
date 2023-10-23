@@ -8,7 +8,7 @@ This module is responsible for setting up the necessary infrastructure resources
 # The AWS infrastructure architecture for xrplnode Hosting on AWS
 The following diagram illustrates how to host an xrplnode host node on Amazon Web Services (AWS).
 
-![Alt Text](./xrpl-cdk-deployment/architecture/aws-host.drawio)
+![Alt Text](./xrpl-cdk-deployment/architecture/aws-xprl-host-arch.png)
 
 
 ## Prerequisites
